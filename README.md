@@ -18,10 +18,6 @@ You may find it here:
 
 https://github.com/lmthang/bivec
 
-Our training command used the following settings:
-
-./bivec -src-train data/train.x86  -tgt-train data/train.arm -src-lang x86 -tgt-lang arm -output output/out -size 200 -window 5 -threads 4 -binary 0 -iter 10 -eval 1 -negative 30 -min-count 0 -sample 1e-5 -bi-weight 4
-
 ############################
 
 ABOUT THESE PROGRAMS
