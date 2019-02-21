@@ -28,8 +28,7 @@ convenience, they are listed in variables near the top; feel free to modify them
 ./senvec.py
 
 Returns ROC plots and AUC scores for cross-architecture basic block similarity tests.
-Basic block embeddings are calculated by:
-	summing instruction embeddings within a block
+Basic block embeddings are calculated by summing instruction embeddings within a block
 
 Similarity is computed using Cosine similarity
 
