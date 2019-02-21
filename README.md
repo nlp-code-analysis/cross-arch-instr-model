@@ -43,6 +43,7 @@ Returns 2 t-SNE figures with different displays:
 Returns 2 ROC plots and AUC scores for instruction-level similarity tests.
 Instructions are evaluated in pairs, in 2 ways:
 	1) mono-architecture
+	
 	2) cross-architecture
 
 The similarity metric used is cosine similarity.
