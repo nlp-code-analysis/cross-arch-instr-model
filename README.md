@@ -11,7 +11,7 @@ The NDSS Workshop on Binary Analysis Research (BAR), 2019.
 
 ############################
 
-The trained cross-architecture instruction embedding model used in our paper are included in the output/ directory.
+The trained cross-architecture instruction embedding model used in our paper are included in the output/ directory. Please remember to unzip the four output files.
 
 Our embeddings were trained on the model Bivec, which is based on Word2Vec.
 You may find it here:
